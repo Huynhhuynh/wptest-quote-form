@@ -1,0 +1,17 @@
+.quote-form-container {
+  width: 650px !important;
+  max-width: 100%;
+  margin: 30px auto;
+  background: #ddd;
+  border: solid 1px #999;
+  padding: 30px;
+}
+
+.request-quote-form {
+  
+  input[type=text],
+  input[type=tel],
+  input[type=number] {
+    margin-bottom: 20px;
+  }
+}
